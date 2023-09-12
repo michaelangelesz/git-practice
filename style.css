@@ -1,6 +1,7 @@
 /* Basic Styling - don't alter this part! */
 html,
 body {
+    font-family: Papyrus;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -33,6 +34,14 @@ main h2 {
     color: hotpink;
     background-color: black;
     padding: 3px;
+}
+
+.michaelangelesz-styles {
+    background-color: rgb(92, 149, 235);
+    color: white;
+    font-size: x-large;
+    text-shadow: 2px 2px 4px #ffffff;
+    padding: 1px;
 }
 
 .code-ninja-style {
